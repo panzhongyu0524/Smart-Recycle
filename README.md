@@ -21,7 +21,7 @@ Vipin Das
 
 Welcome to our project Smart Recycle
 
-Video explanation here: https://www.youtube.com/watch?v=SgueQK26JV0
+Video explanation [here:](https://www.youtube.com/watch?v=SgueQK26JV0)
 
 Recycling has essential impact on both human being and the natural environment.
 
