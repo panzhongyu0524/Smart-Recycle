@@ -4,7 +4,7 @@ A simple web application to guide users to identify a trash item is recyclable o
 <p>
 <img  align="left" width="200" height="200"
 width="322" alt="project_smart_recycle" src="https://github.com/user-attachments/assets/0ff4efe2-0032-4c8a-9aec-0a8c0e7497a1" />
-</p><br><br><br><br><br><br>
+</p><br><br><br><br><br><br><br><br><br><br>
 
 
 Team Members:
@@ -20,6 +20,8 @@ Vipin Das
 ## Introduction
 
 Welcome to our project Smart Recycle
+
+Video explanation here: https://www.youtube.com/watch?v=SgueQK26JV0
 
 Recycling has essential impact on both human being and the natural environment.
 
