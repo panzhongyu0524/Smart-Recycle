@@ -1,5 +1,8 @@
 # Smart-Recycle
 A simple web application to guide users to identify a trash item is recyclable or not
+<img width="322" alt="project_smart_recycle" src="https://github.com/user-attachments/assets/0ff4efe2-0032-4c8a-9aec-0a8c0e7497a1" />
+
+
 
 Team Members:
 
